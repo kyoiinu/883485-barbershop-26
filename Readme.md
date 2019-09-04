@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Kyoken Inu](https://up.htmlacademy.ru/htmlcss/26/user/883485).
+* Студент: [Мазуркевич Ксения](https://up.htmlacademy.ru/htmlcss/26/user/883485).
 
 ---
 
